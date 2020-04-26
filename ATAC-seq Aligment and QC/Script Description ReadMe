@@ -1,0 +1,28 @@
+Command line scripts for the alignment and QC of BTBR and C57 ATAC-seq datasets. 
+Main scripts are divided by strain: 
+ode for making the BTBR genome from mm10 variant vcf files 
+
+BTBRBtw2index.sh contains code for making the BTBR bowtie2 indexes for alignment of BTBR data with MMARGE.
+C57Btw2index.sh contains code for C57 bowtie2 indexes 
+
+checksum.sh checks fastq checksum
+
+C57alignment_mmarge_array.sh contains alignment information etc for C57
+
+BTBRalignment_mmarge_array.sh contains alignment information etc for BTBR (includes alignment to BTBR version of the genome using MMARGE and shifting back to mm10 standard coordinates).
+
+shift_files_to_reference_textfiles.pl internal modified script used by MMARGE for coordinate shifting
+
+ATAC_BAM_shifter_gappedAlign.pl  is a perl script for read shifting to account for the Tn5 cut sites: from here https://github.com/TheJacksonLaboratory/ATAC-seq/blob/master/auyar/ATAC_BAM_shifter_gappedAlign.pl
+
+FilterFragmentSizeBam.sh Script to filter for nucleosome free reads < 147 bp
+
+Peakcalling_homer_array.sh calls peaks using HOMER. uses pos2bedmod.pl
+
+deeptools_SpearmanCorrl.sh makes correlation plots using deeptools for sample QC
+
+merged_bigwigs_5_5_19.sh merges big wigs by sample group using merge_bigwig_server.sh
+
+mm10.blacklist.bed bedfile with mm10 blacklist regions for removal 
+
+LibraryQC.R R code for library QC analysis using ANOAV and Benjamini-Hochberg corrected postdocs.
