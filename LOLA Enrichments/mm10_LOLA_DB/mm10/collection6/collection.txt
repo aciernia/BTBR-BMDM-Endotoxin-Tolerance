@@ -1,0 +1,12 @@
+"mouse BMDM Ghisletti, et al., 2010"
+Sample GSM487449
+"Ghisletti S, Barozzi I, Mietton F, Polletti S et al.Identification and characterization of enhancers controlling the inflammatory gene expression program in macrophages.Immunity2010 Mar 26;32(3):317-28. PMID:20206554"
+Primary bone marrow-derived macrophages (BMDM) from Fvb mice
+Mus musculus
+cell type: BMDM cells 7th day of differentiation
+treatment LPS 10 ng/ml for 2hr
+"Macrophages were stimulated with lipopolysaccharide LPS, 10 ng/ml"
+"Bone marrow cells isolated from female Fvb mice were plated in 10 cm plates in 5ml of BM-medium (high glucose DMEM supplemented with 20% low endotoxin fetal bovine serum, 30% L929-conditioned medium, 1% glutamine, 1%, Pen/Strep, 0.5% Sodium Pyruvate, 0.1% _-mercaptoethanol). Cultures were fed with 2.5 ml of fresh medium every two days."
+genomic DNA
+All reads that maps uniquely to the genome with two or fewer mismatches were kept.
+Peaks: analyses were performed using MACS (PMID: 18798982) with a bandwith of 150bp and a p-value threshold of 10^-5. p300 and H3K4me1 ChIPs were normalized against input DNA. PU.1 ChIPs were normalized against a theoric distribution of the same number of tags.

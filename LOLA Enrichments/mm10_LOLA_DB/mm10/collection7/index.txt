@@ -1,0 +1,6 @@
+filename	description	celltype	tissue	datasource
+CTCFChIP_BMDM_ChIPseqpeaks_mm10.bed	CTCF peaks BMDM	BMDM	mouse	ENCODE 
+H3K4me1_BMDM_ChIPseqpeaks_mm10.bed	H3K4me1 peaks BMDM	BMDM	mouse	ENCODE 
+H3K4me3_BMDM_ChIPSeqpeaks_mm10.bed	H3K4me3 peaks BMDM	BMDM	mouse	ENCODE 
+H3K27ac_BMDM_ChIPseqpeaks_mm10.bed	H3K27ac peaks BMDM	BMDM	mouse	ENCODE 
+POLR2A_BMDM_ChIPseqpeaks_mm10.bed	POLR2A peaks BMDM	BMDM	mouse	ENCODE 

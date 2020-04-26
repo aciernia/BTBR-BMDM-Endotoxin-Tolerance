@@ -1,0 +1,48 @@
+BMDM mouse ENCODE ChIPseq				
+https://www.encodeproject.org/search/?type=Experiment&assay_term_name=ChIP-seq&replicates.library.biosample.donor.organism.scientific_name=Mus+musculus&biosample_term_name=bone+marrow+macrophage				
+				
+Mus musculus C57BL/6 bone marrow macrophage male adult (8 weeks)				
+				
+cell organism: mouse				
+cell description: Bone marrow derived macrophage				
+cell sex: F				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+	MNEMONIC	DESCRIPTION	COLOR NAME	COLOR CODE
+	TssA	Active TSS	Red	"255,0,0"
+	TssAFlnk	Flanking Active TSS	Orange Red	"255,69,0"
+	TxFlnk	Transcr. at gene 5' and 3'	LimeGreen	"50,205,50"
+	Tx	Strong transcription	Green	"0,128,0"
+	TxWk	Weak transcription	DarkGreen	"0,100,0"
+	EnhG	Genic enhancers	GreenYellow	"194,225,5"
+	Enh	Enhancers	Yellow	"255,255,0"
+	ZNF/Rpts	ZNF genes & repeats	Medium Aquamarine	"102,205,170"
+	Het	Heterochromatin	PaleTurquoise	"138,145,208"
+	TssBiv	Bivalent/Poised TSS	IndianRed	"205,92,92"
+	BivFlnk	Flanking Bivalent TSS/Enh	DarkSalmon	"233,150,122"
+	EnhBiv	Bivalent Enhancer	DarkKhaki	"189,183,107"
+	ReprPC	Repressed PolyComb	Silver	"128,128,128"
+	ReprPCWk	Weak Repressed PolyComb	Gainsboro	"192,192,192"
+	Quies	Quiescent/Low	White	"255,255,255"

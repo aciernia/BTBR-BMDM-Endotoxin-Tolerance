@@ -1,0 +1,4 @@
+Analysis of genetically diverse macrophages reveals local and domain-wide
+mechanisms that control transcription factor binding and function
+Series GSE109965
+Mouse BMDM mm10

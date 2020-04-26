@@ -1,0 +1,6 @@
+filename	size
+Bcl6_LPS_ChIPseqConsensus_peaks_mm10.bed	329
+Bcl6_untreated_ChIPseqConsensus_peaks_mm10.bed	895
+NFKB_LPS_ChIPseqConsensus_peaks_mm10.bed	13490
+NFKB_untreated_ChIPseq_peaks_mm10.bed	164
+Pol2ChIPseq_peaks_mm10.bed	5141

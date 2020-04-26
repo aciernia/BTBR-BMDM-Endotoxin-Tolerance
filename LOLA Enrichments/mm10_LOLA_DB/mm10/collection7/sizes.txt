@@ -1,0 +1,6 @@
+filename	size
+CTCFChIP_BMDM_ChIPseqpeaks_mm10.bed	20049
+H3K27ac_BMDM_ChIPseqpeaks_mm10.bed	60045
+H3K4me1_BMDM_ChIPseqpeaks_mm10.bed	183107
+H3K4me3_BMDM_ChIPSeqpeaks_mm10.bed	34494
+POLR2A_BMDM_ChIPseqpeaks_mm10.bed	3508

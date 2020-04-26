@@ -1,0 +1,6 @@
+filename	description	celltype	tissue	datasource
+Pol2ChIPseq_peaks_mm10.bed	PolII ChIPseq peaks from untreated BMDM	BMDM	mouse	"Barish, et al., 2010"
+NFKB_untreated_ChIPseq_peaks_mm10.bed	NFKB (p65) peaks from untreated BMDM	BMDM	mouse	"Barish, et al., 2010"
+NFKB_LPS_ChIPseqConsensus_peaks_mm10.bed	NFKB (p65) peaks from 3hr LPS treated BMDM	BMDM	mouse	"Barish, et al., 2010"
+Bcl6_untreated_ChIPseqConsensus_peaks_mm10.bed	Bcl6 peaks from untreated BMDM	BMDM	mouse	"Barish, et al., 2010"
+Bcl6_LPS_ChIPseqConsensus_peaks_mm10.bed	Bcl6 peaks from 3hr LPS treated BMDM	BMDM	mouse	"Barish, et al., 2010"

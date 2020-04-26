@@ -1,0 +1,28 @@
+
+Sample GSM611117		Query DataSets for GSM611117
+Status	Public on Nov 24, 2010
+Title	macrophage_p65_LPS_ChIPSeq_2
+Sample type	SRA
+ 	
+Source name	primary bone marrow-derived macrophages
+Organism	Mus musculus
+Characteristics	cell type: primary bone marrow-derived macrophages
+strain: C57BL/6
+treatment: 3 hr LPS stimulated macrophages
+donor age: 10 month old male
+chip antibody: p65
+Treatment protocol	Cells were fixed with 2 mM disuccinimidyl glutarate for 30 minutes, then with 1% formaldehyde for 10 minutes, then glycine-quenched and harvested.
+Growth protocol	Bone marrow was purified and differentiated in DMEM containing 20% fetal bovine serum, 30% L929 conditioned media, and antibiotics for 5 days, then re-plated in macrophage serum free media (Invitrogen) overnight.
+Extracted molecule	genomic DNA
+Extraction protocol	Lysates were clarified from sonicated nuclei and histone-DNA complexes were isolated with antibody. Libraries were prepared according to Illumina's instructions accompanying the ChIP seq sample prep kit (IP-102-1001). Briefly, DNA was end-repaired using a combination of T4 DNA polymerase, E. coli DNA Pol I large fragment (Klenow polymerase) and T4 polynucleotide kinase. The blunt, phosphorylated ends were treated with Klenow fragment (32 to 52 exo minus) and dATP to yield a protruding 3- 'A' base for ligation of Illumina's adapters which have a single 'T' base overhang at the 3’ end. After adapter ligation DNA was PCR amplified with Illumina primers for 15 cycles and library fragments of 200-400 bp (insert plus adaptor and PCR primer sequences) were band isolated from an agarose gel. The purified DNA was captured on an Illumina flow cell for cluster generation. Libraries were sequenced on the Genome Analyzer following the manufacturer's protocols.
+ 	
+Library strategy	ChIP-Seq
+Library source	genomic
+Library selection	ChIP
+Instrument model	Illumina Genome Analyzer II
+ 	
+Description	Chromatin IP against p65 + LPS
+Data processing	Alignment: Sequence reads were obtained and mapped to the mouse (July, 2007) genomes using the Illumina Genome Analyzer Pipeline. All reads mapping with two or fewer mismatches were retained and read starts were summed in sliding windows of 200 bp to create summary windows.
+
+
+ 	

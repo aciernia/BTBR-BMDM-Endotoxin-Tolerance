@@ -1,0 +1,6 @@
+filename	description	celltype	tissue	datasource
+GSM487448_p300.UT.peaks.mm10.sort.bed	p300 peaks untreated BMDM	BMDM	mouse FVB	"Ghisletti, et al., 2010"
+GSM487449_p300.LPS_2h.peaks.mm10.sort.bed	p300 peaks 2hr LPS treated BMDM	BMDM	mouse FVB	"Ghisletti, et al., 2010"
+GSM487450_PU.1.UT.peaks.mm10.sort.bed	PU.1 peaks untreated BMDM	BMDM	mouse FVB	"Ghisletti, et al., 2010"
+GSM487451_PU.1.LPS_2h.peaks.mm10.sort.bed	PU.1 peaks 2hr LPS treated BMDM	BMDM	mouse FVB	"Ghisletti, et al., 2010"
+GSM487452_H3K4me1.UT.peaks.mm10.sort.bed	H3K4me1 peaks untreated BMDM	BMDM	mouse FVB	"Ghisletti, et al., 2010"

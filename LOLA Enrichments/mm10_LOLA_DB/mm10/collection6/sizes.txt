@@ -1,0 +1,6 @@
+filename	size
+GSM487448_p300.UT.peaks.mm10.sort.bed	12432
+GSM487449_p300.LPS_2h.peaks.mm10.sort.bed	12250
+GSM487450_PU.1.UT.peaks.mm10.sort.bed	73543
+GSM487451_PU.1.LPS_2h.peaks.mm10.sort.bed	74413
+GSM487452_H3K4me1.UT.peaks.mm10.sort.bed	84790

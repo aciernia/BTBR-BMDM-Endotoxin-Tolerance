@@ -1,0 +1,19 @@
+filename	description	celltype	tissue	datasource
+peaks_C57_ATAC_KLA_opt.bed	ATAC peaks KLA	BMDM	mouse	Link et al 2018
+peaks_C57_ATAC_notx_opt.bed	ATAC peaks media	BMDM	mouse	Link et al 2018
+peaks_C57_CEBP_KLA_opt.bed	CEBP ChIPseq peaks KLA	BMDM	mouse	Link et al 2018
+peaks_C57_CEBP_notx_opt.bed	CEBP ChIPseq peaks media	BMDM	mouse	Link et al 2018
+peaks_C57_cJun_KLA_opt.bed	cJun ChIPseq peaks KLA	BMDM	mouse	Link et al 2018
+peaks_C57_cJun_notx_opt.bed	cJun ChIPseq peaks media	BMDM	mouse	Link et al 2018
+peaks_C57_p65_KLA_opt.bed	p65 ChIPseq peaks KLA	BMDM	mouse	Link et al 2018
+peaks_C57_p65_notx_opt.bed	p65 ChIPseq peaks media	BMDM	mouse	Link et al 2018
+peaks_C57_PU1_KLA_opt.bed	PU1 ChIPseq peaks KLA	BMDM	mouse	Link et al 2018
+peaks_C57_PU1_notx_opt.bed	PU1 ChIPseq peaks media	BMDM	mouse	Link et al 2018
+peaks_C57_Runx1_KLA.bed	Runx1 ChIPseq peaks KLA	BMDM	mouse	Link et al 2018
+peaks_C57_Runx1_notx.bed	Runx1 ChIPseq peaks media	BMDM	mouse	Link et al 2018
+peaks_C57_USF_KLA_opt.bed	USF ChIPseq peaks KLA	BMDM	mouse	Link et al 2018
+peaks_C57_USF2_notx_opt.bed	USF ChIPseq peaks media	BMDM	mouse	Link et al 2018
+regions_C57_27ac_KLA_same.txt.bed	H3K27ac regions KLA	BMDM	mouse	Link et al 2018
+regions_C57_27ac_notx_same.txt.bed	H3K27ac regions media	BMDM	mouse	Link et al 2018
+regions_C57_me2_KLA_same.txt.bed	H3K4me2 regions KLA	BMDM	mouse	Link et al 2018
+regions_C57_me2_notx_same.txt.bed	H3K4me2 regions media	BMDM	mouse	Link et al 2018
